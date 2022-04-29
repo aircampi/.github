@@ -5,10 +5,10 @@ Aircampi is a platform which makes to build and scale your backend easily.
 We offer our own products like:
 
 - 🔐 Auth
-- 🚪 Unified Login
+- 🛢 Database
 - 🗂 Storage
 - 📡 Realtime
-- 🛢 Database
+- 🚪 Login
 - 🎮 Console
 - ...
 
